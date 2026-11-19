@@ -8,7 +8,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Atim Akhtar</h1>
+            <h1>falak siddiqui</h1>
         </div>
         <nav>
             <ul>
